@@ -6,13 +6,14 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To run the tutor app, first install flutter `here <https://docs.flutter.dev/get-started/install>`_
+
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Setup
 ----------------
 
 To retrieve a list of random ingredients,
