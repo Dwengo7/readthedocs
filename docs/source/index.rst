@@ -1,4 +1,4 @@
-Welcome to Tutor app documentation!
+Welcome to The Tutor app documentation!
 ===================================
 
 
