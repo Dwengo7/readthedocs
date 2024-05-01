@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "Tutor app"
+authors = [{name = "Simon", email = "up2125193@myport.ac.uk"}, {name = "Handhwarah", email = "up2065762@myport.ac.uk}, {name = "David", email = "up2119625@myport.ac.uk}, {name = "Joeshmi", email = "up2157505@myport.ac.uk}, {name = "Sean", email = "up2112744@myport.ac.uk}, {name = "Kudzai", email = "up2129397@myport.ac.uk}]
 dynamic = ["version", "description"]
